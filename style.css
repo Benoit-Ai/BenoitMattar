@@ -1,0 +1,85 @@
+body{
+    color: #3d4656;
+    margin: 0;
+    text-align: center;
+    font-family: serif;
+    display: block;
+}
+.top-container{
+    background-color: #d5e1ff;
+    position: relative;
+    padding-top: 100px;
+}
+Span{
+    text-decoration: underline;
+}
+.profile-img{
+    height: 300px;
+    border-radius: 50%;
+}
+h1{
+    color: #3a3ebc;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: sans-serif;
+}
+h2 {
+    color: #3a3ebc;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.btn {
+    background: #3a3ebc;
+    border-radius: 8px;
+    font-family: sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+.middle-container{
+    margin: 100px 0;
+}
+.copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.bottom-container{
+    background-color: #d5e1ff;
+    padding: 50px 0 20px;
+}
